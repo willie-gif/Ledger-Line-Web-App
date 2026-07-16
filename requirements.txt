@@ -1,0 +1,6 @@
+streamlit
+plotly
+openpyxl
+firebase-admin
+pytest
+requests
