@@ -1,0 +1,21 @@
+# Secrets — never commit these
+.streamlit/secrets.toml
+firebase-key.json
+
+# Local data files (personal test data, and Streamlit Cloud won't use these anyway)
+ledger_line_data*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# pytest cache
+.pytest_cache/
